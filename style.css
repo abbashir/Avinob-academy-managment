@@ -1,0 +1,53 @@
+.glyphicon { margin-right:10px; }
+.panel-body { padding:0px; }
+.panel-body table tr td { padding-left: 15px }
+.panel-body .table {margin-bottom: 0px; }
+
+/*css for form*/
+.form-element{
+	margin-bottom: 10px;
+}
+.font-size{
+	font-size: 15px;
+}
+
+u{
+	 border-bottom: 1px dotted #000;
+    text-decoration: none;
+    width: 100%;
+    font-size: 12px;
+   
+}
+label{
+  color: #1ABC9C;
+}
+.left{
+	display: inline;
+	float: left;
+}
+.mid{
+	display: inline;
+	float: left;
+	margin-left: 200px;
+}
+.right{
+	display: inline;
+	float: left;
+	margin-left: 0px;
+}
+.mynav{
+
+}
+.mynav li a{
+	color: #fff;
+	
+
+}
+.mynav li:hover{
+	background: green;
+
+}
+.txtcolor{
+	color: #fff;
+}
+
